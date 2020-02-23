@@ -1,2 +1,2 @@
 # nifi-processor
- - Enterprise-Connect Apache NIFI Processor Plugin
+ - Enterprise-Connect Open-Source Initiative, Apache NIFI Processor Plugin
